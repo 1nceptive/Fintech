@@ -1,5 +1,5 @@
 # IBM Streamline Financial Netting Disrupting the Fintech Industry 
-
+``Shehryar Riaz ``
 
 ### Charles Ranlett Flint founded IBM, also known as International Business Machines Corporation, in 1911 as the Computing-Tabulating-Recording Company. IBM began by manufacturing punch-card tabulating systems. IBM did not invest extensively in technology until after World War II due to its development. IBM went on to become one of the main computer manufacturers in the United States. Since 2000, IBM has continuously placed one of their supercomputers near the top of the industry's list of most powerful machines as determined by standardised computation tests. In addition to creating supercomputers for governments and major enterprises, IBM's supercomputer group built the Cell Broadband Engine in collaboration with the Toshiba Corporation and the Sony Corporation of Japan. This powerful computer chip, which was developed over a four-year period beginning in 2001, has a wide range of uses, including supercomputers, Toshiba high-definition televisions, and the Sony Playstation 3 electronic gaming system. IBM also created computer chips for the Microsoft Corporation Xbox 360 and Nintendo Corporation Wii game consoles. IBM is a for-profit corporation that is primarily reliant on its large clientele.
 
